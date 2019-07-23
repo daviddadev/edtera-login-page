@@ -9,7 +9,7 @@ A clean simple page showcasing the affects of the after and before pseudo elemen
 
 ### Launch
 
-To see the project live tap [here](https://daviddadev.github.io/before-and-after-pseudo-elements/), and thanks for visiting my GitHub. Enjoy.
+To see the project live tap [here](https://daviddadev.github.io/edtera-login-page/), and thanks for visiting my GitHub. Enjoy.
 
 ### Portfolio
 
